@@ -1,9 +1,23 @@
-### Olá sou Erick Chucky 👋
+
+## Eai, Dev! Me chamo Erick, bem vindos a Matrix 
+
+<ul align="left">
+<li>📍Sou de São Paulo - SP e tenho 34 anos </li>
+<br>
+<li>🚀 Estou em processo de transição de carreira, algo que sempre gostaria de fazer e criei a coragem e a iniciativa sou formado em Design Gráfico estou focando meus estudo para me tornar um DEV Front-And, vou em buscas de novos conhecimnetos para entrar nesse mundo de códigos. 🚀</li><br>
+<br>
+<li>👩‍💻 Estou estudando para me tornar um Desenvolvedor Front-End, e futuramente pretendo seguir os estudos até que me levem a ser um Full-Stack.  </li>
+<br>
+<li>🎓 Estou construindo um bases em lógica de programação, HTML, CSS, Javascript e Git/Github. </li>
+<br>
+<li>💻 Atualmente disponivel para estágios na area de desenvolvimento frontend Jr. </li>
+</ul>
+<br>
 
 
-- 🔭 Hoje eu trabalho como Artista  
+- 🔭 Hoje eu trabalho como Artista, ilustrador e tatuador. 
 - 🌱 Estudando HTML, CSS, e Lógica de Programação
-- 😄 Pronouns: ele/dele
+- 😄 Tenho uma empresa de desenvolvimentos de apps com mais 3 amigo, mas no momento atuo com character design do game
 
 <div align="center">
   <a href="https://github.com/erickchuky">
