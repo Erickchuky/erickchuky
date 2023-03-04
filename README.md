@@ -4,7 +4,7 @@
 <ul align="left">
 <li>📍Sou de São Paulo - SP e tenho 34 anos </li>
 <br>
-<li>🚀 Estou em processo de transição de carreira, algo que sempre gostaria de fazer e criei a coragem e a iniciativa sou formado em Design Gráfico estou focando meus estudo para me tornar um DEV Front-And, vou em buscas de novos conhecimnetos para entrar nesse mundo de códigos. 🚀</li><br>
+<li>🚀 Estou em processo de transição de carreira, algo que sempre gostaria de fazer e criei a coragem e a iniciativa sou formado em Design Gráfico estou focando meus estudo para me tornar um DEV Front-end, vou em buscas de novos conhecimnetos para entrar nesse mundo de códigos. 🚀</li><br>
 <br>
 <li>👩‍💻 Estou estudando para me tornar um Desenvolvedor Front-End, e futuramente pretendo seguir os estudos até que me levem a ser um Full-Stack.  </li>
 <br>
