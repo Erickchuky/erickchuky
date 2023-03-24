@@ -8,9 +8,9 @@
 <br>
 <li>👩‍💻 Estou estudando para me tornar um Desenvolvedor Front-End, e futuramente pretendo seguir os estudos até que me levem a ser um Full-Stack.  </li>
 <br>
-<li>🎓 Estou construindo um bases em lógica de programação, HTML, CSS, Javascript e Git/Github. </li>
+<li>🎓 Estou construindo uma bases em lógica de programação, HTML, CSS, Javascript e Git/Github. </li>
 <br>
-<li>💻 Atualmente disponivel para estágios na area de desenvolvimento frontend Jr. </li>
+<li>💻 Atualmente disponivel para estágios na area de desenvolvimento front-end Jr. </li>
 </ul>
 <br>
 
