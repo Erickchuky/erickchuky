@@ -17,7 +17,7 @@
 
 - 🔭 Hoje eu trabalho como Artista, ilustrador e tatuador. 
 - 🌱 Estudando HTML, CSS, e Lógica de Programação
-- 😄 Tenho uma empresa de desenvolvimentos de apps com mais 3 amigo, mas no momento atuo com character design do game
+
 
 <div align="center">
   <a href="https://github.com/erickchuky">
