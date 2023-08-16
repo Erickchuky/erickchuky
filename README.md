@@ -2,15 +2,15 @@
 ## Eai, Dev! Me chamo Erick, bem vindos a Matrix 
 
 <ul align="left">
-<li>📍Sou de São Paulo - SP e tenho 34 anos </li>
+<li>📍Sou Pernambucano moro em Sp - tenho 34 anos. </li>
 <br>
-<li>🚀 Estou em processo de transição de carreira, algo que sempre gostaria de fazer e criei a coragem e a iniciativa sou formado em Design Gráfico estou focando meus estudo para me tornar um DEV Front-end, vou em buscas de novos conhecimnetos para entrar nesse mundo de códigos. 🚀</li><br>
+<li>🚀 Estou em processo de transição de carreira, algo que sempre gostei se sempre tive a vontade de fazer, criei iniciativa para começas os estudos na área, sou formado em Design Gráfico estou focando meus estudo para me tornar um Dev Front-end. 🚀</li><br>
 <br>
-<li>👩‍💻 Estou estudando para me tornar um Desenvolvedor Front-End, e futuramente pretendo seguir os estudos até que me levem a ser um Full-Stack.  </li>
+<li>👩‍💻 Estou estudando para me tornar um Desenvolvedor Front-End, e futuramente ser um Dev Full-Stack.  </li>
 <br>
-<li>🎓 Estou construindo uma bases em lógica de programação, HTML, CSS, Javascript e Git/Github. </li>
+<li>🎓 Estou construindo uma bases em lógica de programação, HTML, CSS, Javascript, Python, Git/Github. </li>
 <br>
-<li>💻 Atualmente disponivel para estágios na area de desenvolvimento front-end Jr. </li>
+<li>💻 Atualmente disponível para estágios na área de desenvolvimento front-end Jr. </li>
 </ul>
 <br>
 
