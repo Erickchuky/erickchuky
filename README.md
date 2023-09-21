@@ -44,5 +44,5 @@
  
 </div>
 <div>
-  <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/b04dc6bec168b3ae9d305080b796c48c.gif" width="300" height="74" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
+  <img src="https://github.com/Erickchuky/erickchuky/blob/main/gif.gif" alt="Erick - Ilustrador - Artista - Designer - Tatuador - Programador">
 </div>
