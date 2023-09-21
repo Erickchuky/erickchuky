@@ -44,5 +44,5 @@
  
 </div>
 <div>
-  <img src="https://github.com/Erickchuky/erickchuky/blob/main/gif.gif" alt="Erick - Ilustrador - Artista - Designer - Tatuador - Programador">
+  <img src="https://github.com/Erickchuky/erickchuky/blob/main/erick01.gif" alt="Erick - Ilustrador - Artista - Designer - Tatuador - Programador">
 </div>
